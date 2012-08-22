@@ -1,0 +1,21 @@
+CONCEPT:
+
+  - Third and Fourth Races
+  - Geography and Locales and Art
+  - Timeline / Lore and Art
+  - Client Interface Art
+  - Sprites and Sprite Architecture
+
+DESGIN:
+  - Race Specific Interfaces
+  - Control Specifications and Options
+  - Renderer Options and Scalability
+  - 
+
+TECHNICAL:
+
+  - Toolset Template Frames and Containers (wx, qt, other?))
+  - Ogre Sample Render Framework for Tools
+  - Source Brach Organization and Build Enviroment
+  - Server Container
+  - Platform Specifics and Binary Distribution
