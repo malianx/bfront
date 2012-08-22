@@ -1,0 +1,14 @@
+Main Concept:
+
+  - Starfleet Academy Based Progresion
+  - Holy Trinity Classes (DPS, Tank, Heals/Support)
+
+Level Progression:
+
+Skill Progression:
+
+  - Three Chains (Tactical, Engineer, Science)
+    -- Tactical: DPS
+    -- Engineer: Tank
+    -- Science: Healer / Support
+  
