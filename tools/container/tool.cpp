@@ -8,6 +8,11 @@ GenericTool::GenericTool(const wxString& title)
   filemenu = new wxMenu;
   editmenu = new wxMenu;
 
+  filemenu->Append(wxID_ANY, wxT("&New"));
+  filemenu->Append(wxID_ANY, wxT("&Open"));
+  filemenu->Append(wxID_ANY, wxT("&Save"));
+
+  filemenu->AppendSeparator();
   filemenu->Append(wxID_EXIT, wxT("&Exit"));
 
   mainbar->Append(filemenu, wxT("&File"));
