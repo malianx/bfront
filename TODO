@@ -1,7 +1,7 @@
 CONCEPT:
 
   - Third and Fourth Races
-  - Geography and Locales and Art
+  - Geography, Locales and Art
   - Timeline / Lore and Art
   - Client Interface Art
   - Sprites and Sprite Architecture
@@ -15,6 +15,6 @@ TECHNICAL:
 
   - Toolset Template Frames and Containers (wx, qt, other?))
   - Ogre Sample Render Framework for Tools
-  - Source Brach Organization and Build Enviroment
+  - Source Branch Organization and Build Enviroment
   - Server Container
   - Platform Specifics and Binary Distribution
