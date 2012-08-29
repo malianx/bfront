@@ -1,0 +1,181 @@
+﻿Race Option
+-Fed
+-Klink
+-Romulan 
+
+
+Starfleet Academy
+Pick Career Path
+
+
+1. Tactical
+2. Engineer
+3. Science
+
+
+Tactical training 
+1. Flight training  ( tactical maneuvers )
+2. combat training 
+3. UI training 
+Engineer training 
+1. Flight Training
+2. Combat training (Survival training)
+3. UI training
+Science training
+1. Flight  training
+2. Combat training (Support  training)
+3. UI training 
+Game modes
+        -player vs npc
+-player will go into battle will NPC to earn xp. NPC will be borg. Will 
+scale to player/players rank
+-PvE game types 
+Objective based
+-Capture the flag
+-Destroy base  
+Deathmatch
+-First to 20
+
+
+                        Mirror Mode 
+                                Fight ships of the same race 
+                        Fight with higher rank mode 
+                                -This option will allow to fight against higher ranks 
+  - Only up to X level, then only PVP
+  -Go to a starbase to get new ships?
+        -player vs player
+                -player will play against other players to earn xp. Only put players 
+                against other players of  the same rank 
+                -PVP game types 
+                        Objective based
+                                -Capture the flag        
+                                -Destroy the base
+                                -Capture and hold
+                                -Assassination 
+                        Deathmatch 
+                                -first to 20
+                        Mirror Mode
+                                -Fight ships of the same race 
+
+
+Sub System Targeting 
+        -Weapons
+        -Shields 
+        -Engine
+
+
+Energy Type 
+        -Phaser
+        -Disrupter
+        -Antiproton 
+
+
+First Command
+-all classes start of with the same ship(miranda)
+-go into combat with same ranked enemies
+-grind for new ship
+-xp needed for rank 2000
+
+
+
+
+Ranking up level 2
+Engi gets options of two ships
+    -Constitution(strong hull, two fwd phaser, one torpedo bay, 1 aft phaser , 1 aft torpedo bay
+    -NX(strong hull, two fwd torpedo bays, two fwd phaser) 
+tact 
+   -sabre class(weak hull, fast, phaser cannons, one fwd torpedo bay, one turret) 
+   -rapier class(weak hull, fast, two fwd phaser banks, two torpedo bay)
+science
+        -nova class(week hull, strong shields, hull healing beam, shield healing beam,((all healing beam are 360)), one fwd phaser bank 
+        -quasar class(
+next rank xp 3500
+
+
+Ranking up level 3
+Engi
+        -cheyenne class
+        -Stargazer class
+tact
+        -Akira class 
+        -Norway class
+science 
+        -Hope class
+        -Horizon class
+next rank 5000 xp 
+
+
+Ranking up level 4 
+Engi 
+        -Galaxy class
+        
+tac
+        -Defiant class
+science
+        -intrepid class
+next rank 6500
+
+
+Ranking up level 5
+engi 
+        -envoy class
+        -Celestial class
+tac
+        -Vigilant class 
+        -Gallant class 
+science 
+        -Discovery glass
+        -Cochrane class 
+next rank 8000
+
+
+Ranking up level 6
+engi
+        -Sovereign class 
+tac
+        -Prometheus class
+science 
+        -Luna Class
+next rank 9500
+
+
+Ranking up level 7
+engi
+        -Noble class
+tac
+        -Hermes class
+science 
+        -Trident class
+next rank 1100
+
+
+Ranking up level 8
+engi 
+        -Avenger class
+tac
+        -Gryphon class
+science 
+        -Destiny class
+next rank 1600
+
+
+Ranking up level 9
+engi
+        -Dreadknot 
+tac
+        -Dervish class
+science 
+        -Oracle class
+next rank 2500
+
+
+Ranking up level 10
+engi
+        - Custom ship 
+tac 
+        -Custom ship 
+science 
+        -Custom ship
+
+
+test
