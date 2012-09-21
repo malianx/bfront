@@ -5,10 +5,28 @@ Main Concept:
 
 Level Progression:
 
+  - Max Level (?)
+  - Exponential CoEfficient for Experience Gain
+  - Stat Increase Ever Level
+  - Skill Increase (Every Other Level? Every Third/Fourth?)
+  - New Ships (See Below)
+
 Skill Progression:
 
   - Three Chains (Tactical, Engineer, Science)
     -- Tactical: DPS
+       --- Primary Stat: Critical Chance
+       --- Secondary Stat: Speed
+
     -- Engineer: Tank
+       --- Primary Stat: Hull Strength
+       --- Secondary Stat: Base Damage
+
     -- Science: Healer / Support
-  
+       --- Primary Stat: Shield Strength
+       --- Secondary Stat: Deflector Strength 
+
+Ship Progression:
+
+  - Require Steps To Obtain (?)
+  - Awarded At Level (which levels?)
