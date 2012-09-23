@@ -4,8 +4,7 @@ CONCEPT:
   - Timeline / Lore
   - Complete Race, Faction, Skill Progression (WIP concept/CharDevel.txt)
   - Complete Ship List (WIP concept/Ships.txt)
-  - Base Stats For Classes/Levels
-  - Base Stats for Ships
+  - Base Stats for Ships (WIP concept/Ships/<RACE>)
   - Travel Options
   - Combat Localization and Event Progression
 
@@ -21,8 +20,12 @@ DESGIN:
 
 TECHNICAL:
 
-  - Toolset Template Frames and Containers (wx, qt, other?))
-  - Ogre Sample Render Framework for Tools
+Priority One: Map Generator
+ -- Interface Gui Elements
+ -- Sample Resources
+ -- Sample Renderer (Render Framework)
+
+  - Toolset Template Frames and Containers
   - Source Branch Organization and Build Enviroment
   - Server Container
   - Platform Specifics and Binary Distribution
