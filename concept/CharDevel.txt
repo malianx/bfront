@@ -5,10 +5,10 @@ Main Concept:
 
 Level Progression:
 
-  - Max Level (?)(30 or 50?)
+  - Max Level 30
   - Exponential CoEfficient for Experience Gain
   - Stat Increase Ever Level
-  - Skill Increase (Every Other Level? Every Third/Fourth?)(every five levels)
+  - Skill Increase Every 5th Level
   - New Ships (See Below)
 
 Skill Progression:
@@ -28,5 +28,5 @@ Skill Progression:
 
 Ship Progression:
 
-  - Require Steps To Obtain (?)(xp based)
-  - Awarded At Level (which levels?)(every 5th level)
+  - Require Steps To Obtain (Test Flight)
+  - Awarded At Every 5th Level
