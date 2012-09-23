@@ -4,6 +4,18 @@ Ship List
 
   - Federation Ships
 
+    -- Tactical Ships | Speed and Critical Strick
+       --- Rank 1: Akira
+       --- Rank 5: Steamrunner
+
+    -- Engineering Ships | Defensive and Passive/Active Buffs
+       --- Rank 1: Stargazer
+       --- Rank 5: Constitution
+
+    -- Science Ships | Heals and Debuffs
+       --- Rank 1: Hope
+       --- Rank 5: Horizon
+
   - Klingon Ships
 
   - Orion Ships

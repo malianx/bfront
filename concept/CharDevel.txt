@@ -7,24 +7,8 @@ Level Progression:
 
   - Max Level 30
   - Exponential CoEfficient for Experience Gain
-  - Stat Increase Ever Level
   - Skill Increase Every 5th Level
   - New Ships (See Below)
-
-Skill Progression:
-
-  - Three Chains (Tactical, Engineer, Science)
-    -- Tactical: DPS
-       --- Primary Stat: Critical Chance
-       --- Secondary Stat: Speed
-
-    -- Engineer: Tank
-       --- Primary Stat: Hull Strength
-       --- Secondary Stat: Base Damage
-
-    -- Science: Healer / Support
-       --- Primary Stat: Shield Strength
-       --- Secondary Stat: Deflector Strength 
 
 Ship Progression:
 
